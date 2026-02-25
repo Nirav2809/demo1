@@ -1,0 +1,5 @@
+git config --global user.name "nirav2809"
+git config --global user.email "niravnayak69@gmail.com"
+git config --global color.ui auto
+git remote add origin https://github.com/Nirav2809/demo1.git
+git add 1_day2
